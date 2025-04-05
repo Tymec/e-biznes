@@ -16,7 +16,7 @@ E-Biznes
 - [ ] 5.0 - Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD
 
 ### Zadanie 3 - [Kotlin](/zad3/)
-- [ ] 3.0 - Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord
+- [x] 3.0 - Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord
 - [ ] 3.5 - Aplikacja jest w stanie odbierać wiadomości użytkowników z platformy Discord skierowane do aplikacji
 - [ ] 4.0 - Zwróci listę kategorii na określone żądanie użytkownika
 - [ ] 4.5 - Zwróci listę produktów wg żądanej kategorii
