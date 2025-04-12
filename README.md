@@ -21,3 +21,12 @@ E-Biznes
 - [ ] 4.0 - Zwróci listę kategorii na określone żądanie użytkownika
 - [ ] 4.5 - Zwróci listę produktów wg żądanej kategorii
 - [ ] 5.0 - Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenger, Webex
+
+### Zadanie 5 - [React](/zad5/) ([demo](/demos/zad5.mp4))
+- [ ] 3.0 - W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności
+    - Płatności powinny wysyłać do aplikacji serwerowej dane
+    - w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej
+- [ ] 3.5 - Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing
+- [ ] 4.0 - Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks
+- [ ] 4.5 - Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose
+- [ ] 5.0 - Należy wykorzystać axios'a oraz dodać nagłówki pod CORS
